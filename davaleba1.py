@@ -22,3 +22,5 @@ b1=b%2
 if a1 == b1:
 	print("yes")
 else: print("No")
+
+print("good bye")
